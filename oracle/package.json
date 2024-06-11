@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@near-js/crypto": "^1.1.0",
+    "@near-js/crypto": "^1.2.3",
     "@noble/hashes": "^1.3.3",
     "big.js": "^6.2.1",
     "near-api-js": "^3.0.1",
